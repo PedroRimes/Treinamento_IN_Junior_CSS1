@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    text-decoration: none; 
+}
+
+main{
+    background: rgb(0, 0, 0); 
+    width: 99%;
+    margin: 0 auto;
+    padding: 0.5rem;
+}
+
+h1{
+    font-family: "Garamond", Times, serif;
+    font-size: 3rem;
+    color: rgb(201, 183, 23);
+    margin-bottom: 5rem;
+}
+
+.centro{
+    text-align: center;
+}
+
+.direita{
+    text-align: right;
+}
+
+p{
+    background: rgb(201, 183, 23);
+    border-radius: 2em;
+    border: 1rem solid transparent;
+    margin: 4rem;
+    box-shadow: 1px 1px 10px 5px rgb(201, 183, 23);
+}
+
+h3{
+    text-align:unset;
+    text-decoration-line: overline;
+    color: rgb(201, 183, 23);
+}
+
+ul{
+    padding: inherit;
+    background: rgb(201, 183, 23);
+    border-radius: 2em;
+    border: 1rem solid transparent;
+    margin: 5rem;
+    box-shadow: 1px 1px 10px 5px rgb(201, 183, 23);
+}
+
+ol{
+    padding: inherit;
+    background: rgb(201, 183, 23);
+    border-radius: 2em;
+    border: 1rem solid transparent;
+    margin: 5rem;
+    box-shadow: 1px 1px 10px 5px rgb(201, 183, 23);
+}
+
+.rodape{
+    padding: 0.8rem;
+    background: rgb(201, 183, 23);
+    border: 1rem solid transparent;
+    box-shadow: 1px 1px 10px 5px rgba(0,0,0,0.2);
+    vertical-align: baseline;
+}
+
+.tam{
+    width: 60%;
+}
