@@ -68,3 +68,10 @@ ol{
 .tam{
     width: 60%;
 }
+
+h4{
+    font-family: "Garamond", Times, serif;
+    font-size: 2rem;
+    color: rgb(201, 183, 23);
+    margin-bottom: 5rem;
+}
